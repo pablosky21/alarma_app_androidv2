@@ -25,7 +25,7 @@ import java.util.List;
  * handsets, the activity presents a list of items, which when touched,
  * lead to a {@link ItemDetailActivity} representing
  * item details. On tablets, the activity presents the list of items anddsads
- * item details side-by-side using two vertical panes.
+ * item details side-by-side using two vertical panes.213123
  */
 public class ItemListActivity extends AppCompatActivity {
 
